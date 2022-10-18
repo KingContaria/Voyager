@@ -15,7 +15,7 @@ import java.util.Collections;
 import java.util.Map;
 
 @Mixin(StructureManager.class)
-public abstract class StructureManagerMixin {
+public class StructureManagerMixin {
 
 	@Shadow
 	@Final
